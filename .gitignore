@@ -1,0 +1,20 @@
+# Binarios compilados
+ratlab-server
+ratlab-client
+ratlab-tui
+ratlab-gui
+ratlab-server.exe
+ratlab-client.exe
+
+# Logs
+*.log
+
+# ImGui layout (generado en tiempo de ejecución)
+imgui.ini
+
+# Objetos intermedios
+*.o
+*.a
+
+# macOS
+.DS_Store
